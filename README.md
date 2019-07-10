@@ -24,3 +24,21 @@ A typical parameter estimation scheme would be:
 6. Using all data, run parameter estimation with only parameters in Lateral Force (Combined Slip). 
 
 The order between longitudinal forces and lateral forces does not matter; it is simply important to the pure slip cases are dealt with before moving on to the combined slip cases. 
+
+# Examples
+
+A number of files serve as examples as to how parameter estimation can be done. 
+
+combineddata.m - An example of how combined slip data can be trimmed for parameter estimation. 
+
+purelatdata.m - An example of how pure side slip data can be isolated and trimmed for parameter estimation. 
+
+purelongdata.m - An example of how pure longitudinal slip data can be isolated and trimmed for parameter estimation. 
+
+combined_lat_spesession.mat - a save file of a parameter estimation run to estimate parameters in Lateral Force (Combined Slip)
+
+combined_long_spesession.pat - a save file of a parameter estimation run to estimate parameters in Longitudinal Force (Combined Slip)
+
+pure_lat_spesession.mat - a save file of a parameter estimation run to estimate parameters in Lateral Force (Pure Side Slip)
+
+pure_long_spesession.mat - a save file of a parameter estimation run to estimate parameters in Longitudinal Force (Pure Longitudinal Slip). 
