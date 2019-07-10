@@ -37,7 +37,7 @@ purelongdata.m - An example of how pure longitudinal slip data can be isolated a
 
 combined_lat_spesession.mat - a save file of a parameter estimation run to estimate parameters in Lateral Force (Combined Slip)
 
-combined_long_spesession.pat - a save file of a parameter estimation run to estimate parameters in Longitudinal Force (Combined Slip)
+combined_long_spesession.mat - a save file of a parameter estimation run to estimate parameters in Longitudinal Force (Combined Slip)
 
 pure_lat_spesession.mat - a save file of a parameter estimation run to estimate parameters in Lateral Force (Pure Side Slip)
 
